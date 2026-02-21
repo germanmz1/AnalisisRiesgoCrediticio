@@ -1,9 +1,16 @@
 # Análisis de Riesgo Crediticio
 
-Proyecto de Data Science enfocado en la evaluación del riesgo crediticio utilizando el dataset German Credit Dataset del UCI Machine Learning Repository.
+
+## Descripción
+Este proyecto analiza el riesgo crediticio utilizando el German Credit Dataset con el objetivo de identificar factores que influyen en la probabilidad de incumplimiento.
 
 ## Objetivo
-Identificar factores que influyen en el riesgo de crédito y desarrollar insights útiles para entidades financieras.
+Mejorar la evaluación de solicitantes de crédito mediante análisis exploratorio de datos e identificación de variables predictoras y desarrollar insights útiles para entidades financieras.
+
+## Contenido del repositorio
+- Notebook con análisis exploratorio
+- Visualizaciones e insights
+- Presentación ejecutiva
 
 ## Tecnologías utilizadas
 - Python
